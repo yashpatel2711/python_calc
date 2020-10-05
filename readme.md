@@ -40,3 +40,13 @@ Basic in this mini project we're focusing on five main modules. whichwe are goin
 
     - Define evaluateExpression method in it.
     - Pass the expression in the above listed method and check whether it throws any exception or not, if not then print the result.
+
+## 5. controller.py
+**Create controller.py. In this module add the following things:**
+
+    - Define a class named Controller.
+    - Build a constructor which calls model and view parameters in it.
+    - Define 3 functions in it:
+        1. calculateResult: for evaluating result of expression.
+        2. buildExpression: for validating and building the expression.
+        3. connectSignals: to connect the expression through the buttons we defined in Step-3.
