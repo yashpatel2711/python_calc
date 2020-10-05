@@ -6,9 +6,9 @@
 Basic in this mini project we're focusing on five main modules. whichwe are going to discuss in detailed.
     1. test.py
     2. view.py
-    3. controller.py
+    3. main.py 
     4. model.py
-    5. main.py 
+    5. controller.py
     
 
 ## 1. test.py
