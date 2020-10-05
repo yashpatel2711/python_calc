@@ -28,9 +28,15 @@ Basic in this mini project we're focusing on five main modules. whichwe are goin
     - Now using tuples, define position of each and every button in the calculator layout.
     - Construct the grid layout of buttons perfectly.
 
-## Step-3:
+##  3. main.py
 **Create main.py.**
 
     - Define the main function.
     - Create and call an instance of QApplication.
     - Show the GUI using GUI() and show() methods.
+
+## 4. model.py
+**Create model.py and add the following in the module.**
+
+    - Define evaluateExpression method in it.
+    - Pass the expression in the above listed method and check whether it throws any exception or not, if not then print the result.
