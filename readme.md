@@ -27,3 +27,10 @@ Basic in this mini project we're focusing on five main modules. whichwe are goin
     - Create a display bar at top for showing the entered digits in a calculator.
     - Now using tuples, define position of each and every button in the calculator layout.
     - Construct the grid layout of buttons perfectly.
+
+## Step-3:
+**Create main.py.**
+
+    - Define the main function.
+    - Create and call an instance of QApplication.
+    - Show the GUI using GUI() and show() methods.
